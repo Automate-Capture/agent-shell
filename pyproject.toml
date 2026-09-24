@@ -39,10 +39,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Lumi-node/agent-shell"
-Documentation = "https://lumi-node.github.io/agent-shell/"
-Repository = "https://github.com/Lumi-node/agent-shell"
-Issues = "https://github.com/Lumi-node/agent-shell/issues"
+Homepage = "https://github.com/Automate-Capture/agent-shell"
+Documentation = "https://automate-capture.github.io/agent-shell/"
+Repository = "https://github.com/Automate-Capture/agent-shell"
+Issues = "https://github.com/Automate-Capture/agent-shell/issues"
 
 [tool.ruff]
 line-length = 100
